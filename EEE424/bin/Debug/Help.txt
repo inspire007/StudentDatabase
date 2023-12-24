@@ -1,0 +1,59 @@
+_____________________________
+
+Using this software, you can-
+_____________________________
+
+* Add students in database
+
+* Browse student records
+
+* Update student information
+
+* Delete a record from database
+
+* Generate crystal report
+
+* Generate PDF report
+
+_______________
+
+Adding records:
+_______________
+
+Simply fill up the form with all the required information and click Insert button to
+add new record.
+
+_________________
+
+Browsing records:
+_________________
+
+Click browse button and it will show all the records in data grid view box
+
+_______________
+
+Update records:
+_______________
+
+Fill in the student no with other information and click update button to update
+
+_______________
+
+Delete records:
+_______________
+
+Fill in the student no and click delete button to delete
+
+_______________
+
+Crystal Report:
+_______________
+
+This option generates crystal report of all information from the database
+
+_______________
+
+PDF Report:
+_______________
+
+This option directly creates a PDF using all the information from the database
